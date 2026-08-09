@@ -256,7 +256,7 @@ Ved opgradering fra ældre eller eksperimentelle builds anbefales det at rydde g
 
 ## Baggrund og credits
 
-Videreudviklet af **DuckAvenger** så understøtter den de daske afgifter og nettariffer.
+Videreudviklet af **DuckAvenger** så det understøtter de danske afgifter og nettariffer.
 
 Udviklet og tilpasset af **Soviet9773Red** og bidragydere.
 
