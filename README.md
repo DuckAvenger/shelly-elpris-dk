@@ -156,7 +156,7 @@ shelly-elpris-dk.js
 8. Åbn scriptets console og se efter output i stil med:
 
 ```text
-elpris: v.3.1.5_12
+elpris: v.3.2.3_10
 elpris: URL http://<device-ip>/script/<script-id>
 ```
 
@@ -256,6 +256,8 @@ Ved opgradering fra ældre eller eksperimentelle builds anbefales det at rydde g
 
 ## Baggrund og credits
 
+Videreudviklet af **DuckAvenger** så understøtter den de daske afgifter og nettariffer.
+
 Udviklet og tilpasset af **Soviet9773Red** og bidragydere.
 
 Baseret på idéer og arkitektur fra **shelly-porssisahko** af **Jussi Isotalo**.
@@ -267,7 +269,7 @@ Yderligere DK-specifik tilpasning og test: **S. Impagliazzo**.
 ## Repository
 
 ```text
-https://github.com/Soviet9773Red/shelly-elpris-dk
+https://github.com/DuckAvenger/shelly-elpris-dk
 ```
 
 ---
