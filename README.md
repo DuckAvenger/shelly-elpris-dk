@@ -16,7 +16,7 @@ Scriptet er beregnet til de danske prisområder **DK1** og **DK2** og bruger den
 |---|---|
 | Scriptnavn | `shelly-elpris-dk.js` |
 | Runtime-version | `3.1.5_12` |
-| Build-header | `shelly-elpris-dk 3.1.5 build 12` |
+| Build-header | `shelly-elpris-dk 3.2.3 build 10` |
 | Understøttede prisområder | `DK1`, `DK2` |
 | Pris-API | `https://www.elprisenligenu.dk/api/v1/prices/` |
 | Prisfelt | `DKK_per_kWh` |
