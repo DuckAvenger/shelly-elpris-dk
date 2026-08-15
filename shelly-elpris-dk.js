@@ -2,7 +2,7 @@
 // @license (c) DK-only adaptation by Alexander - https://elpris.eu
 // @license (c) Jussi isotalo - http://jisotalo.fi https://github.com/jisotalo/shelly-porssisahko-en
 // @license (c) Alexander - Soviet9773Red https://github.com/Soviet9773Red/shelly-elpris-dk
-// @license (c) S. Impagliazzo - https://github.com/DuckAvenger/shelly-elpris-dk
+// @license (c) S. Impagliazzo - DuckAvenger - https://github.com/DuckAvenger/shelly-elpris-dk
 // License: GNU AGPL v3.0
 
 
