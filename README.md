@@ -240,6 +240,20 @@ Ikke testet
 </tr>
 <tr>
 <td>
+Plug M
+</td>
+<td>
+Ikke testet
+</td>
+<td>
+OK
+</td>
+<td>
+Ikke testet
+</td>
+</tr>
+<tr>
+<td>
 Mini PM
 </td>
 <td>
@@ -269,6 +283,16 @@ Enhedskompatibilitet afhænger af firmwareversion, ledig script-hukommelse, akti
   `elpris: URL http://<device-ip>/script/<script-id>`
 - Åbn den viste URL i en browser.
 - Gå til fanen **Opsætning**, vælg Region og Netselskab, og gem.
+
+### Skærmbilleder
+
+**Status-siden** — viser aktuel pris (samlet og opdelt i spot/nettarif/energiafgift), output-tilstand og årsag:
+
+![Status-siden](screenshots/status.png)
+
+**Opsætning-siden** — region, netselskab (med automatisk GLN-opslag) og styringstilstand:
+
+![Opsætning-siden](screenshots/setup.png)
 
 ### Indbygget webinterface
 
